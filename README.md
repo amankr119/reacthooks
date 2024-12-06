@@ -1,2 +1,2 @@
 # reacthooks
-Here, in the project I am learning reacthooks
+Here, in this project, I am learning React hooks
